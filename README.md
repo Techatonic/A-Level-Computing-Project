@@ -11,5 +11,8 @@ Teachers can:
 
 Students can:
 * Play three maths games aimed at improving basic arithmetic ability
+  * Linear Spaceship Wars - shoot lasers at oncoming enemy spaceships by orienting the laser gun at the right position and angle using the straight line equation
+  * Speed Maths - answers as many basic multiple-choice maths questions as possible within 120 seconds
+  * Who Wants to be an Algebra Millionaire? - A play on the classic TV show, with lifelines, where the student answers increasingly difficult maths questions to 'win' £1 million.
 * View leaderboards for all of their classes
 * View all homeworks currently set for them
