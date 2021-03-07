@@ -1,0 +1,62 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Generic Scenes/LoadingScene.unity
+    guid: d852bb63a47de434cb894c39931084e8
+  - enabled: 1
+    path: Assets/Scenes/Generic Scenes/StartScene.unity
+    guid: 4641e2c266fe0be44aefdb9d6028385b
+  - enabled: 1
+    path: Assets/Scenes/Generic Scenes/CreateAccountScene.unity
+    guid: 8cc49fee925ad5447bb019fb7444e6cd
+  - enabled: 1
+    path: Assets/Scenes/Generic Scenes/LoginScene.unity
+    guid: ad2294dfcc727ac4b82c774da83c2f82
+  - enabled: 1
+    path: Assets/Scenes/Teacher Scenes/Teacher - MainMenuScene.unity
+    guid: e3583e72070702245af6c30b1d52282b
+  - enabled: 1
+    path: Assets/Scenes/Teacher Scenes/Teacher - AddClassScene.unity
+    guid: 9851e5f673a3de242856c5d1453d41ec
+  - enabled: 1
+    path: Assets/Scenes/Student Scenes/Student - MainMenuScene.unity
+    guid: 80edfff434e6ee346a44050a89c29e79
+  - enabled: 1
+    path: Assets/Scenes/Student Scenes/Student - ChooseGameScene.unity
+    guid: 4dc75e2ea92fea14cbefe14041259741
+  - enabled: 1
+    path: Assets/Scenes/Student Scenes/Game Scenes/Game - LinearSpaceshipWarsScene.unity
+    guid: e01f23ee5387af4469b35d0dcd3b3f43
+  - enabled: 1
+    path: Assets/Scenes/Student Scenes/Game Scenes/EndGameScene.unity
+    guid: 1fc369e855f6e354dab529f65b0cdd33
+  - enabled: 1
+    path: Assets/Scenes/Teacher Scenes/Teacher - ViewClassesScene.unity
+    guid: d5596f863e63e77429e09ca8c83aee8c
+  - enabled: 1
+    path: Assets/Scenes/Generic Scenes/ViewLeaderboardScene.unity
+    guid: 1088f9f4db29e7c498aa79d1a5fb2edb
+  - enabled: 1
+    path: Assets/Scenes/Teacher Scenes/Teacher - HomeworkMenuScene.unity
+    guid: e4750d92ef9aab747b05f99de1ea60ce
+  - enabled: 1
+    path: Assets/Scenes/Teacher Scenes/Teacher - SetHomeworkScene.unity
+    guid: 7647c673591ce9743b918649a664560f
+  - enabled: 1
+    path: Assets/Scenes/Teacher Scenes/Teacher - ViewHomeworksScene.unity
+    guid: 5b6770ae820406840a1930f2a8de8305
+  - enabled: 1
+    path: Assets/Scenes/Student Scenes/Student - ViewHomeworksScene.unity
+    guid: a1baffc9995280d4c8d07ad941bd6d95
+  - enabled: 1
+    path: Assets/Scenes/Student Scenes/Game Scenes/Game - SpeedMathsScene.unity
+    guid: 82d218004bdfe924ca937b55a7c113ba
+  - enabled: 1
+    path: Assets/Scenes/Student Scenes/Game Scenes/Game - AlgebraMillionaireScene.unity
+    guid: a962b506d2abbf34fb6d91f990819a2b
+  m_configObjects: {}
